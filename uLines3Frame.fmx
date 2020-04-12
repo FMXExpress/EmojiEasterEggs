@@ -1,0 +1,31 @@
+object Lines3Frame: TLines3Frame
+  Size.Width = 425.000000000000000000
+  Size.Height = 505.000000000000000000
+  Size.PlatformDefault = False
+  object Rectangle1: TRectangle
+    Fill.Color = claCornflowerblue
+    Position.X = -8.000000000000000000
+    Position.Y = 128.000000000000000000
+    Size.Width = 433.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+  end
+  object Rectangle2: TRectangle
+    Fill.Color = claCornflowerblue
+    Position.X = -8.000000000000000000
+    Position.Y = 264.000000000000000000
+    Size.Width = 433.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+  end
+  object Rectangle3: TRectangle
+    Fill.Color = claCornflowerblue
+    Position.Y = 376.000000000000000000
+    Size.Width = 433.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+  end
+end

@@ -1,0 +1,18 @@
+object RainbowFrame: TRainbowFrame
+  Size.Width = 425.000000000000000000
+  Size.Height = 505.000000000000000000
+  Size.PlatformDefault = False
+  object Label1: TLabel
+    Align = Client
+    StyledSettings = [Family, FontColor]
+    Margins.Top = 100.000000000000000000
+    Margins.Right = -150.000000000000000000
+    Size.Width = 575.000000000000000000
+    Size.Height = 405.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 400.000000000000000000
+    TextSettings.HorzAlign = Center
+    Text = #55356#57096
+    TabOrder = 0
+  end
+end

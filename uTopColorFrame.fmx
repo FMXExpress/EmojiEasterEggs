@@ -1,0 +1,13 @@
+object TopColorFrame: TTopColorFrame
+  Size.Width = 425.000000000000000000
+  Size.Height = 505.000000000000000000
+  Size.PlatformDefault = False
+  object Rectangle1: TRectangle
+    Fill.Color = claCornflowerblue
+    Position.X = -8.000000000000000000
+    Size.Width = 433.000000000000000000
+    Size.Height = 265.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+  end
+end

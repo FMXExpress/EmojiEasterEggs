@@ -1,0 +1,41 @@
+object PinkFlowerFrame: TPinkFlowerFrame
+  Size.Width = 425.000000000000000000
+  Size.Height = 505.000000000000000000
+  Size.PlatformDefault = False
+  object Label1: TLabel
+    StyledSettings = [Family, FontColor]
+    Position.X = 120.000000000000000000
+    Position.Y = 184.000000000000000000
+    Size.Width = 177.000000000000000000
+    Size.Height = 209.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 100.000000000000000000
+    TextSettings.HorzAlign = Center
+    Text = #55356#57144
+    TabOrder = 2
+  end
+  object Label2: TLabel
+    StyledSettings = [Family, FontColor]
+    Position.X = 80.000000000000000000
+    Position.Y = 8.000000000000000000
+    Size.Width = 177.000000000000000000
+    Size.Height = 209.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 100.000000000000000000
+    TextSettings.HorzAlign = Center
+    Text = #55356#57144
+    TabOrder = 1
+  end
+  object Label3: TLabel
+    StyledSettings = [Family, FontColor]
+    Position.X = 192.000000000000000000
+    Position.Y = 288.000000000000000000
+    Size.Width = 177.000000000000000000
+    Size.Height = 209.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 100.000000000000000000
+    TextSettings.HorzAlign = Center
+    Text = #55356#57144
+    TabOrder = 0
+  end
+end

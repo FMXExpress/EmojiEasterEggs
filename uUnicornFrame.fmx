@@ -1,0 +1,17 @@
+object UnicornFrame: TUnicornFrame
+  Size.Width = 425.000000000000000000
+  Size.Height = 505.000000000000000000
+  Size.PlatformDefault = False
+  object Label1: TLabel
+    Align = Client
+    StyledSettings = [Family, FontColor]
+    Margins.Top = 50.000000000000000000
+    Size.Width = 425.000000000000000000
+    Size.Height = 455.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 175.000000000000000000
+    TextSettings.HorzAlign = Center
+    Text = #55358#56708
+    TabOrder = 0
+  end
+end
